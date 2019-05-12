@@ -1,2 +1,2 @@
 # CPGBN
-The source code of "Convolutional Poisson Gamma Belief Network" ICML2019
+The demo for "Convolutional Poisson Gamma Belief Network" published in ICML2019
