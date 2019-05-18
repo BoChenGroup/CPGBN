@@ -23,6 +23,13 @@ ELEC: https://github.com/riejohnson/ConText
 
 IMDB: http://ai.stanford.edu/~amaas/data/sentiment/
 
+# ==Overview==
+- CPFA_Mnist_Demo folder contains 4 different training algorithms for CPFA, including Toeplitz, Element, Element-Parallel and Online mehthods
+
+- CPGBN_Text_Demo folder contains Datasets and experiment code to reproduce the results in our paper
+
+- CPGBN_Derivation_Draft file provides a detailed derivation for the CPGBN
+
 # ==Citations==
 If you find that the algorithms in this repository are useful for your research, please refer to the following article:
 
