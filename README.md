@@ -3,6 +3,24 @@ This is code for the paper "Convolutional Poisson Gamma Belief Network" publishe
 
 Created by Chaojie Wang , Bo Chen , Sucheng Xiao at Xidian University and Mingyuan Zhou at University of Texas at Austin
 
+# ==Requirement==
+Tensorflow >= 1.0
+
+PyCUDA >= 0.8 
+
+PyCUDA can be download from following address https://mathema.tician.de/software/pycuda/
+
+# ==Data Source==
+MR: https://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+TREC: http://cogcomp.cs.illinois.edu/Data/QA/QC/
+
+SUBJ: http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+ELEC: https://github.com/riejohnson/ConText
+
+IMDB: http://ai.stanford.edu/~amaas/data/sentiment/
+
 # ==Citations==
 If you find that the algorithms in this repository are useful for your research, please refer to the following article:
 
