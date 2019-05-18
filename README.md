@@ -11,6 +11,8 @@ PyCUDA >= 0.8
 PyCUDA can be download from following address https://mathema.tician.de/software/pycuda/
 
 # ==Data Source==
+All data source files can be found in following addresses and have been included in our repository
+
 MR: https://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 TREC: http://cogcomp.cs.illinois.edu/Data/QA/QC/
