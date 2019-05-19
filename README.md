@@ -1,8 +1,7 @@
 # ==Convolutional Poisson Gamma Belief Network==
 This is code for the paper "Convolutional Poisson Gamma Belief Network" published in ICML2019. 
 
-Created by Chaojie Wang , Bo Chen , Sucheng Xiao at Xidian University and Mingyuan Zhou at University of Texas at Austin
-. https://arxiv.org/abs/1905.05394
+Created by Chaojie Wang , Bo Chen , Sucheng Xiao at Xidian University and Mingyuan Zhou at University of Texas at Austin. https://arxiv.org/abs/1905.05394
 
 # ==Requirement==
 Tensorflow >= 1.0
