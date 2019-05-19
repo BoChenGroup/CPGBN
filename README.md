@@ -24,7 +24,7 @@ All data source files can be found in following addresses and have been included
 - IMDB: http://ai.stanford.edu/~amaas/data/sentiment/
 
 # ==Overview==
-- CPFA_Mnist_Demo folder contains 4 different training algorithms for CPFA, including Toeplitz, Element, Element-Parallel and Online mehthods
+- CPFA_Mnist_Demo folder contains 4 different training algorithms for CPFA, including Toeplitz, Element, Element-Parallel and SGMCMC mehthods
 
 - CPGBN_Text_Demo folder contains Datasets and experiment code to reproduce the results in our paper
 
