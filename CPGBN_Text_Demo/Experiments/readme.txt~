@@ -1,0 +1,29 @@
+=============================================================================================================
+Python code for the paper "Convolutional Poisson Gamma Belief Network" published in ICML2019
+
+=============================================================================================================
+CPFA_Text_Demo folder contains experiment code to reproduce the results in our paper 
+
+=============================================================================================================
+Accuracy:
+
+--CPGBN_layer_1_Accuracy
+
+--CPGBN_layer_2_Accuracy
+
+--CPGBN_layer_3_Accuracy
+
+
+=============================================================================================================
+Likelihood:
+
+--CPGBN_layer_1_Likelihood
+
+--CPGBN_layer_2_Likelihood
+
+--CPGBN_layer_3_Likelihood
+
+=============================================================================================================
+Visualize:
+
+--CPGBN_layer_3_visualize
