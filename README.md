@@ -34,6 +34,7 @@ All data source files can be found in following addresses and have been included
 If you find that the algorithms in this repository are useful for your research, please refer to the following article:
 
 @inproceedings{
+
 CPGBN_ICML2019,
 title={{C}onvolutional {P}oisson {G}amma {B}elief {N}etwork},
 author={Chaojie Wang and Bo Chen and Sucheng Xiao and Mingyuan Zhou}, booktitle={ICML}, year={2019}}
